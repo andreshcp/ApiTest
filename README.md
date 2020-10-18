@@ -30,3 +30,14 @@ e importar el archivo JSON que se encuentra en la siguiente URL:
 https://run.mocky.io/v3/0773c16f-3c8c-4f96-beee-e8b13f671fd4/
 
 5. Compilar y Ejecutar la App desde Android:  -> Run 'app'
+
+Capturas de Pantalla
+
+https://firebasestorage.googleapis.com/v0/b/testappactr.appspot.com/o/Captura%20de%20Pantalla%202020-10-18%20a%20la(s)%204.34.30%20p.%20m..png?alt=media&token=334cd09f-a634-4fba-9c00-b1a283dc28a0
+
+https://firebasestorage.googleapis.com/v0/b/testappactr.appspot.com/o/Captura%20de%20Pantalla%202020-10-18%20a%20la(s)%204.33.57%20p.%20m..png?alt=media&token=add98fce-e64b-4c32-b085-6096a22fe7b1
+
+https://firebasestorage.googleapis.com/v0/b/testappactr.appspot.com/o/Captura%20de%20Pantalla%202020-10-18%20a%20la(s)%204.34.12%20p.%20m..png?alt=media&token=f5d60bfd-9bbb-4516-8f53-0ac7b6d7c7c4
+
+APK: https://firebasestorage.googleapis.com/v0/b/testappactr.appspot.com/o/app-debug.apk?alt=media&token=f7259170-8afb-4152-a4a5-dfbac9fc64a9
+
